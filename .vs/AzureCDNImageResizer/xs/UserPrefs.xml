@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{63727DEC-4FFE-49DC-BB47-5CF9BE1A7489}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AzureCDNImageResizer/Services/ImageResizerService.cs">
+    <Files>
+      <File FileName="AzureCDNImageResizer/local.settings.json" />
+      <File FileName="AzureCDNImageResizer/Startup.cs" />
+      <File FileName="AzureCDNImageResizer/Extensions/ConfigurationExtensions.cs" />
+      <File FileName="AzureCDNImageResizer/Functions/ImageResizeFunction.cs" />
+      <File FileName="AzureCDNImageResizer/Services/ImageResizerService.cs" Line="121" Column="45" />
+      <File FileName="AzureCDNImageResizer/Services/IImageResizerService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzureCDNImageResizer" expanded="True">
+            <Node name="AzureCDNImageResizer" expanded="True">
+              <Node name="Extensions" expanded="True" />
+              <Node name="Functions" expanded="True" />
+              <Node name="Options" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="ImageResizerService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AzureCDNImageResizer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
